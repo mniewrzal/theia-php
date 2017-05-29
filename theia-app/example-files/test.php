@@ -1,0 +1,5 @@
+<?php
+
+namespace Aaa;
+
+str
